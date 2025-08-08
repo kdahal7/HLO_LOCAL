@@ -1,0 +1,17 @@
+# Web framework
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+httpx
+
+# PDF Processing
+PyMuPDF
+
+# Core Machine Learning Libraries for RAG
+sentence-transformers
+faiss-cpu
+numpy
+
+# Local LLM Interface
+ollama
